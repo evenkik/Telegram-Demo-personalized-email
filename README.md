@@ -1,4 +1,4 @@
-# n8n Workflow for AI & Automation Agencies
+# n8n Demo workflow for AI & Automation Agencies
 
 This n8n workflow is built for AI and automation agencies to **promote their workflows through an interactive demo** that prospects can try themselves.  
 The featured system is a **deep personalized email demo**.
